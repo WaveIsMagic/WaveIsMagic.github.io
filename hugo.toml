@@ -2,3 +2,6 @@ baseURL = 'https://waveismagic.github.io/'
 languageCode = 'en-de'
 title = 'Astrophysical Waves'
 theme = 'ananke'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
