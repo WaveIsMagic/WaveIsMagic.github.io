@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://waveismagic.github.io/'
 languageCode = 'en-de'
 title = 'Astrophysical Waves'
 theme = 'ananke'
