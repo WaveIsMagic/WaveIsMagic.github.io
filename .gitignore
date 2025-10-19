@@ -1,0 +1,6 @@
+public/
+resources/
+.hugo_build.lock
+static/images/__pycache__/
+static/images/.cache/
+static/images/media/
