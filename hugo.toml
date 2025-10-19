@@ -5,3 +5,5 @@ theme = 'ananke'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+[params]
+  featured_image_class = "contain"
